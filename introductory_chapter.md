@@ -1,4 +1,4 @@
 # Введение
-[котя]: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/SMPTE_Color_Bars.svg/672px-SMPTE_Color_Bars.svg.png
+<img src="https://pp.userapi.com/c844320/v844320022/cb454/pUowr-YlA6A.jpg" width=50% height=50%>
 
 
